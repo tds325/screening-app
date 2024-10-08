@@ -1,3 +1,5 @@
+venv/
+
 # next.js gitignore courtesy of https://github.com/akiran/nextjs-demo/blob/master/.gitignore
 # Logs
 logs
